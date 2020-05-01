@@ -24,4 +24,5 @@ if[ $day -eq 1 ]
                 then
                         echo Saturday;
       else
-      fi   
+      fi 
+      echo  "branchcheck"  
